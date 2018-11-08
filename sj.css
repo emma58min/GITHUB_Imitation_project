@@ -1,0 +1,74 @@
+
+table {
+  color : #6E7073;
+  border: 1px solid gray;
+}
+.top {
+  fill : #6E7073;
+}
+
+.readme {
+  font-size: 320%;
+  color : black;
+  font-weight: bold;
+}
+.part {
+  fill: #699DD7;
+}
+.old {
+  fill: #699DD7;
+  color: #699DD7;
+}
+.quest {
+  font: #699DD7;
+}
+.dot {
+  background-color: #C7DDE8;
+  fill: #6E7073;
+}
+
+.readhead {
+  background-color: #DBE0E3;
+  color : black;
+}
+
+.kivol {
+  fill : #94DAA0;
+}
+.quest {
+  color:#699DD7;
+}
+.trash {
+  fill: #699DD7;
+}
+.license {
+  color: #699DD7;
+  fill : #6E7073;
+}
+.readmemd {
+  color: #699DD7;
+  fill : #6E7073;
+}
+.middot {
+  fill : #6E7073;
+}
+#first {
+    position: absolute;
+    top: 0;
+  }
+#second {
+    position: absolute;
+    bottom: 0;
+  }
+#second td{
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.middot {
+  padding: 15px;
+}
+#alleft {
+  padding-left: 90px;
+}
